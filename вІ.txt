@@ -1,0 +1,51 @@
+Technical Specification for PABLOGREK ($DACHA) Memecoin Website
+General Provisions
+This technical specification outlines the requirements for the development and design of the website for the PABLOGREK ($DACHA) memecoin. The website must feature a sharp, luxurious, and stylistically consistent design that reflects the unique concept of "Pablo Escobar in a Russian dacha."
+
+1. Visual Style and Design
+Overall Aesthetic: A blend of luxury and rustic simplicity, "gangsta-chic" in a dacha setting. We'll use rich, yet not gaudy, colors. Inspiration: high-quality digital illustrations resembling stylized posters.
+Typography: A combination of brutalist, sans-serif fonts for headings and more readable, yet stylish, fonts for the main text. Possible use of "graffiti" or "stamp" elements for specific accents.
+Animations: All animations must be smooth but dynamic.
+Example: Transitions between sections could mimic fast page scrolling with a "film strip" or "slideshow" effect.
+Elements: Animated background elements (e.g., slowly crawling cucumbers, flickering pickle jars), parallax effects on scroll.
+Interactivity:
+Hover Effects: When hovering over keywords or images, they should "come alive" or change shape, revealing hidden information or an animated element.
+"Dacha Roulette": A small interactive block where clicking randomly reveals a meme or a short fact about Pablo's "dacha life."
+2. Structure and Content
+The website must have an original structure that differs from typical landing pages.
+
+Main Page (Centered):
+
+Large title: PABLOGREK
+Below it, the subtitle: LAUNCHING AT PUMP.FUN 30May
+Background: A dynamic, high-quality illustration (like in the banner), possibly with parallax elements.
+Sections (Unusual transitions/scrolling):
+
+"Pablo's Garden" (Hero Section):
+Token description: "PABLOGREK ($DACHA) is what happens when Pablo Escobar retires, ditches the yayo, and moves to a Russian dacha. Now he runs a veggie empire, trades cucumbers like crypto, and whispers бабушка’s pickling secrets between tomato deals. From kingpin to garden daddy."
+Bright, animated banner.
+Button: "Join the Veggie Cartel" (linking to Telegram, Pump.fun).
+"Harvest of Stories" (Stories Section):
+5 unique stories (100+ words each) describing Pablo's dacha adventures. Stories must be humorous, absurd, and stylistically consistent with the concept.
+Example Story (for inspiration):
+"Babushka's Battle for the Eggplants": Pablo, accustomed to brutal negotiations, faced a true test: a neighbor's babushka whose eggplants he'd accidentally mixed up with his own. The diplomacy he'd mastered on the streets of Medellín proved useless against arguments about "ruined harvests" and "inhuman injustice." In the end, Pablo had to surrender half of his cucumber crop to avoid a full-scale "vegetable war." He realized that on the dacha, there were forces far more powerful than any cartel.
+Each story should be presented as an interactive "window" or "page" that "opens" on click.
+"Rules of the Garden Bed" (Tokenomics Section):
+Simple and clear explanation of tokenomics. Minimal text, maximum animated infographics.
+No complex graphs, emphasizing "fair" distribution (i.e., no mention of scam-related schemes).
+"Growing Plan" (Roadmap Section):
+The roadmap presented as stages of "harvesting": "planting seeds," "first sprouts," "harvesting," "pickling for winter."
+Each stage with a brief, humorous, animated illustration.
+"Garden Connections" (Community Section):
+Instead of standard social media icons, interactive elements that, when hovered over or clicked, "reveal" links to Telegram and Twitter. For example, a stylized cucumber that "transforms" into a Telegram icon on click.
+"Cucumber mafia united. From Colombia to the dacha — we grow, meme, and deal in dill. #VeggieCartel"
+Crucially, no direct Twitter, Telegram, etc., buttons.
+3. Functionality
+Cursor: A custom cursor in the shape of a miniature cucumber or a pickle jar, which animates when hovering over interactive elements.
+Absence of Standard Buttons: Instead, stylized, integrated elements that perform the same function (e.g., an image of a babushka that leads to the Telegram channel).
+Optimization: Fast page loading, responsive design for mobile devices.
+Security: Standard web security measures.
+4. Additional Requirements
+Content: All textual content must be "sharp" and "luxurious," avoiding cliché phrases and scam-related slang. The humor should be subtle and absurd, consistent with the overall concept.
+Atmosphere: The website should evoke a sense of belonging to something unique and exclusive, while maintaining a lighthearted, memetic character.
+Updates: Easy ability to add new stories or update tokenomics without redeveloping the entire site.
